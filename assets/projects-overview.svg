@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title"><title id="title">MABDA et Glucy — deux projets en développement</title>
+<rect x="1" y="1" width="487" height="258" rx="16" fill="#0d1117" stroke="#30363d"/><rect x="512" y="1" width="487" height="258" rx="16" fill="#0d1117" stroke="#30363d"/>
+<g font-family="monospace"><text x="30" y="38" fill="#a3e635" font-size="12">01 / WEB EXPERIENCE</text><text x="541" y="38" fill="#a3e635" font-size="12">02 / PRODUCT EXPERIENCE</text></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#f0f6fc" font-weight="700" font-size="44"><text x="28" y="101">MABDA<tspan fill="#a3e635">.</tspan></text><text x="540" y="101">Glucy<tspan fill="#a3e635">.</tspan></text></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#b1bac4" font-size="17"><text x="30" y="140">Création web pour les petites entreprises.</text><text x="541" y="140">L'information nutritionnelle, plus simplement.</text></g>
+<g stroke="#30363d"><path d="M30 169H458"/><path d="M541 169H969"/></g>
+<g font-family="monospace" font-size="12"><circle cx="36" cy="202" r="4" fill="#a3e635"/><text x="49" y="206" fill="#a3e635">EN DÉVELOPPEMENT</text><circle cx="547" cy="202" r="4" fill="#a3e635"/><text x="560" y="206" fill="#a3e635">EN DÉVELOPPEMENT</text><text x="30" y="236" fill="#8b949e">IDENTITÉ · INTERFACE · PARCOURS</text><text x="541" y="236" fill="#8b949e">PRODUIT · EXPÉRIENCE UTILISATEUR</text></g></svg>
