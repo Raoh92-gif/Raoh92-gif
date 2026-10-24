@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="#ce-que-je-construis">Projets & exploration</a> ·
-  <a href="#ma-boîte-à-outils">Stack</a> ·
+  <a href="#02--projets-en-construction">Projets</a> ·
+  <a href="#03--activité">Activité</a> ·
+  <a href="#04--ma-boîte-à-outils">Stack</a> ·
   <a href="https://github.com/Raoh92-gif?tab=repositories">GitHub</a>
 </p>
 
@@ -28,23 +29,52 @@ design → build → test → refine
            ↑______________|
 ```
 
-<h3 id="ce-que-je-construis">02 / Ce que je construis</h3>
+### 02 / Projets en construction
 
-### MABDA · Création web
+<p align="center">
+  <img src="assets/projects-overview.svg" width="100%" alt="MABDA : création web pour les petites entreprises. Glucy : information nutritionnelle. Deux projets en développement." />
+</p>
+
+<details>
+<summary><strong>↳ Découvrir MABDA</strong> — création web</summary>
+
 Un projet d'agence web pour les indépendants, artisans et petites entreprises. Je travaille sur l'identité, l'expérience du site et le parcours qui permet de présenter son projet simplement.
 
 **En développement** · Design d'interfaces · Développement web
 
-### Glucy · Application du quotidien
+</details>
+
+<details>
+<summary><strong>↳ Découvrir Glucy</strong> — application du quotidien</summary>
+
 Une application d'information nutritionnelle en développement, pensée pour rendre les informations alimentaires plus faciles à comprendre et à consulter.
 
 **En développement** · Conception produit · Expérience utilisateur
 
-> **Ma façon de construire :** je définis la direction, j'affine les parcours et je teste les résultats, avec l'IA comme partenaire de prototypage et de développement.
+</details>
 
-<sub>Ces présentations donnent un aperçu de mes projets ; le code et les détails de conception restent privés.</sub>
+<details>
+<summary><strong>↳ Comment je construis avec l'IA</strong></summary>
 
-<h3 id="ma-boîte-à-outils">03 / Ma boîte à outils</h3>
+Je définis la direction, j'affine les parcours et je teste les résultats, avec l'IA comme partenaire de prototypage et de développement.
+
+Mon fil conducteur : une idée claire, une interface utile, des retours concrets et des améliorations successives.
+
+</details>
+
+<sub>Un aperçu de mes projets ; le code et les détails de conception restent privés.</sub>
+
+### 03 / Activité
+
+<p align="center">
+  <a href="https://github.com/Raoh92-gif?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=Raoh92-gif&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=A3E635&amp;fire=A3E635&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=A3E635&amp;sideLabels=B1BAC4&amp;dates=8B949E&amp;locale=fr&amp;border_radius=12&amp;timezone=Europe%2FParis" alt="Contributions GitHub visibles, séquence actuelle et plus longue séquence — statistiques actualisées" width="640" />
+  </a>
+</p>
+
+<p align="center"><sub>Activité visible publiquement · Mes projets principaux sont dans des dépôts privés.<br />Carte fournie par <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a>.</sub></p>
+
+### 04 / Ma boîte à outils
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&amp;logo=typescript&amp;logoColor=A3E635" alt="TypeScript" />
