@@ -30,11 +30,19 @@ design → build → test → refine
 
 <h3 id="ce-que-je-construis">02 / Ce que je construis</h3>
 
-| Terrain de jeu | Ce qui m'intéresse |
-| :--- | :--- |
-| **Web experiences** | Des sites et interfaces avec une identité visuelle soignée. |
-| **AI workflows** | Des agents et des outils qui accompagnent la création, du brief à la vérification. |
-| **Creative lab** | Des prototypes, des expérimentations et des idées à transformer en produits. |
+### MABDA · Création web
+Un projet d'agence web pour les indépendants, artisans et petites entreprises. Je travaille sur l'identité, l'expérience du site et le parcours qui permet de présenter son projet simplement.
+
+**En développement** · Design d'interfaces · Développement web
+
+### Glucy · Application du quotidien
+Une application d'information nutritionnelle en développement, pensée pour rendre les informations alimentaires plus faciles à comprendre et à consulter.
+
+**En développement** · Conception produit · Expérience utilisateur
+
+> **Ma façon de construire :** je définis la direction, j'affine les parcours et je teste les résultats, avec l'IA comme partenaire de prototypage et de développement.
+
+<sub>Ces présentations donnent un aperçu de mes projets ; le code et les détails de conception restent privés.</sub>
 
 <h3 id="ma-boîte-à-outils">03 / Ma boîte à outils</h3>
 
