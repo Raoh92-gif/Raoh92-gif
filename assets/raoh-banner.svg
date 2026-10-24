@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">RAOH — Zakaria / Web &amp; AI Builder</title><desc id="desc">Terminal sombre avec accents vert électrique. Design. Code. Automate.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1280" height="420" rx="20" fill="#0d1117"/><rect width="1280" height="420" rx="20" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="1279" height="419" rx="19.5" fill="none" stroke="#30363d"/><path d="M0 57H1280" stroke="#30363d"/>
+<circle cx="30" cy="29" r="5" fill="#ff5f57"/><circle cx="50" cy="29" r="5" fill="#febc2e"/><circle cx="70" cy="29" r="5" fill="#28c840"/>
+<text x="100" y="34" fill="#8b949e" font-family="monospace" font-size="13">raoh@github: ~/building</text>
+<text x="64" y="117" fill="#a3e635" font-family="monospace" font-size="14" letter-spacing="3">ZAKARIA / WEB &amp; AI BUILDER</text>
+<text x="57" y="253" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="145" font-weight="900" letter-spacing="-8">RAOH<tspan fill="#a3e635">.</tspan></text>
+<text x="64" y="307" fill="#b1bac4" font-family="monospace" font-size="20">Design. Code. Automate.</text>
+<path d="M64 351H738" stroke="#30363d"/><text x="64" y="382" fill="#8b949e" font-family="monospace" font-size="13">FROM IDEA TO INTERFACE_</text>
+<g transform="translate(886 110)"><rect width="284" height="242" rx="12" fill="#101711" stroke="#384536"/>
+<text x="25" y="39" fill="#8b949e" font-family="monospace" font-size="12">// the process</text>
+<text x="25" y="88" fill="#a3e635" font-family="monospace" font-size="18">&gt; imagine()</text>
+<text x="25" y="127" fill="#f0f6fc" font-family="monospace" font-size="18">&gt; build()</text>
+<text x="25" y="166" fill="#f0f6fc" font-family="monospace" font-size="18">&gt; refine()</text>
+<text x="25" y="215" fill="#8b949e" font-family="monospace" font-size="13">↳ keep creating<tspan fill="#a3e635"> ▋</tspan></text></g></svg>
